@@ -1,0 +1,22 @@
+{
+ "model": "OPENCV",
+ "width": 1920,
+ "height": 1080,
+ "fx": 832.05647,
+ "fy": 831.58853,
+ "cx": 932.49746,
+ "cy": 515.28214,
+ "params_colmap": [
+  832.05647,
+  831.58853,
+  932.49746,
+  515.28214,
+  -0.13101,
+  0.04816,
+  0.0,
+  0.0
+ ],
+ "rms_reproj_px": 0.345,
+ "hfov_deg": 98.16738433904695,
+ "provenance": "converted 2026-10-06 from retry/15_v2_intrinsics.json (board [14, 13], 59 views, rms 0.345)"
+}

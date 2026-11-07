@@ -1,0 +1,10 @@
+# tested with Python 3.11, numpy 1.26.4, pycolmap 4.0.4, open3d 0.18.0, opencv 4.13
+numpy<2
+scipy
+matplotlib
+opencv-python
+open3d
+pycolmap==4.0.4
+pydicom
+nibabel
+# CT ground truth only (install in its own venv; see README "Environment"): TotalSegmentator

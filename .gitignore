@@ -1,0 +1,15 @@
+__pycache__/
+*.pyc
+# clinical data and pipeline outputs
+*.mp4
+*.MP4
+*.ply
+*.npz
+*.npy
+*.png
+*.jpg
+*.zip
+*.dcm
+*.nii*
+runs/own_data/retry/rr_*/
+ct_scratch/

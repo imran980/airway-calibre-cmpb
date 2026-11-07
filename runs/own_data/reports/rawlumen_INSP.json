@@ -1,0 +1,11 @@
+{
+ "series": "SER00005",
+ "label": "INSP",
+ "threshold_hu": -900,
+ "pixel_area_mm2": 0.15898598670959474,
+ "carina_index": 28,
+ "carina_z": 1216.384,
+ "n_slices": 98,
+ "z_first": 1217.384,
+ "z_last": 1114.384
+}

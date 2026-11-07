@@ -1,0 +1,41 @@
+{
+  "c3vd": [
+    {
+      "segment": "desc_t4_a",
+      "region": "descending",
+      "surface_median_mm": 1.04,
+      "pose_resid_mm": null
+    },
+    {
+      "segment": "cecum_t4_b",
+      "region": "cecum",
+      "surface_median_mm": 1.25,
+      "pose_resid_mm": null
+    },
+    {
+      "segment": "trans_t2_a",
+      "region": "transverse",
+      "surface_median_mm": 1.4,
+      "pose_resid_mm": null
+    },
+    {
+      "segment": "cecum_t1_a",
+      "region": "cecum",
+      "surface_median_mm": 1.62,
+      "pose_resid_mm": 0.15
+    },
+    {
+      "segment": "sigmoid_t2_a",
+      "region": "sigmoid",
+      "surface_median_mm": 2.03,
+      "pose_resid_mm": null
+    }
+  ],
+  "c3vd_pooled_median_mm": 1.4,
+  "c3vd_pooled_mean_mm": 1.468,
+  "phantom": {
+    "R_GT": 5.0,
+    "median_radial_error_pct": 1.8,
+    "provenance": "synthetic render (code validation)"
+  }
+}

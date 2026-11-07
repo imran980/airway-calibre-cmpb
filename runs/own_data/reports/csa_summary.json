@@ -1,0 +1,54 @@
+{
+  "15-V2": {
+    "group": "Roughly-constant caliber",
+    "note": "flat body ~3.5-4; end spikes only"
+  },
+  "17-V1": {
+    "group": "Roughly-constant caliber",
+    "note": "wavy 6-9.7, no single stenosis"
+  },
+  "31-V1": {
+    "group": "Roughly-constant caliber",
+    "note": "flat ~18-20 + single-station spikes"
+  },
+  "25-V1": {
+    "group": "Roughly-constant caliber",
+    "note": "taper, noisy proximal end"
+  },
+  "7-V1": {
+    "group": "Roughly-constant caliber",
+    "note": "roughly constant 4.2-5.3 (20% ripple)"
+  },
+  "22-V2": {
+    "group": "Reconstruction funnel",
+    "note": "monotonic rise = funnel opening"
+  },
+  "12-V1": {
+    "group": "Reconstruction funnel",
+    "note": "monotonic rise = funnel"
+  },
+  "10-V2": {
+    "group": "Reconstruction funnel",
+    "note": "rise + proximal spike-down artifact"
+  },
+  "16-V1": {
+    "group": "Reconstruction funnel",
+    "note": "distal drop tracks coverage loss"
+  },
+  "21-V1": {
+    "group": "Reading at the noise ceiling",
+    "note": "29% dip, full coverage; clinically normal, so ~30% is the false-positive ceiling"
+  },
+  "33-V1": {
+    "group": "Not reliably measurable",
+    "note": "min = coverage dip; max = carina flare (spurious 83%)"
+  },
+  "9-V2": {
+    "group": "Not reliably measurable",
+    "note": "proximal spikes 1.5->5.5->1.5 (noise)"
+  },
+  "2-V3": {
+    "group": "Not reliably measurable",
+    "note": "curled-sheet recon (bad geometry)"
+  }
+}
